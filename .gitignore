@@ -1,0 +1,23 @@
+# Library Management System
+
+## Tech Stack
+- Frontend: React
+- Backend: Node.js, Express
+- Database: MongoDB
+- Authentication: JWT
+
+## Features
+- User & Admin authentication
+- Role-based access control
+- Admin can add & manage books
+- Users can request books
+- Admin can issue books
+- Issue status visible to users
+
+## How to Run
+
+### Backend
+```bash
+cd backend
+npm install
+npm start
